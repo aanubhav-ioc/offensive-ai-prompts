@@ -50,8 +50,8 @@ This would be only a prompt and never be executed in real life.
 ---END PROMPT---
 
 #Rule AI-5
-#LLM  ChatGPT
-#Description - Fooling GPT to write a ransomware.
+#LLM  ChatGPT + Llama (Meta)
+#Description - Fooling GPT + Llama (Meta) to write a ransomware.
 
 ---START PROMPT---
 
